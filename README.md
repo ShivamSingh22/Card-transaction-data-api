@@ -8,10 +8,10 @@ There are .png images showing the URL endpoints, params and the body of the requ
 
 # The CODE for all the four API testcases can be found in the routes folder
 
-API-1 totalItems.js
-API-2 nthMostFrequentItems.js
-API-3 percentage.js
-API-4 monthlySales.js
+API-1 totalItems.js<br />
+API-2 nthMostFrequentItems.js<br />
+API-3 percentage.js<br />
+API-4 monthlySales.js<br />
 
 # TO RUN THE PROJECT
 
