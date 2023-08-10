@@ -1,6 +1,6 @@
 # Card-transaction-data-api
 
-API Fetches data from a dataset of card transaction details in format CSV
+API Fetches data from a dataset of card transaction details in format CSV.
 
 # The solution of each test case can be found in the postman_screenshots folder
 
@@ -17,7 +17,7 @@ Finds out the nth most occuring item sold based on the card details.<br />
 # API-3 percentage_of_sales<br />
 Percentage of items sold department wise.<br />
 <br />
-API-4 monthlySales<br />
+# API-4 monthlySales<br />
 Lists the monthly sales of a product.<br />
 <br />
 # TO RUN THE PROJECT
