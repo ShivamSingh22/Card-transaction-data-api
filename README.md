@@ -1,18 +1,25 @@
 # Card-transaction-data-api
 
-API Fetches data from a dataset of card transaction details
+API Fetches data from a dataset of card transaction details in format CSV
 
 # The solution of each test case can be found in the postman_screenshots folder
 
 There are .png images showing the URL endpoints, params and the body of the request.
 
-# The CODE for all the four API testcases can be found in the routes folder
+# The APIs of 4 types can be found
 
-API-1 totalItems.js<br />
-API-2 nthMostFrequentItems.js<br />
-API-3 percentage.js<br />
-API-4 monthlySales.js<br />
-
+# API-1 totalItems<br />
+Finds out the total items sold in any department for a specified time frame.<br />
+<br />
+# API-2 nthMostFrequentItems<br />
+Finds out the nth most occuring item sold based on the card details.<br />
+<br />
+# API-3 percentage_of_sales<br />
+Percentage of items sold department wise.<br />
+<br />
+API-4 monthlySales<br />
+Lists the monthly sales of a product.<br />
+<br />
 # TO RUN THE PROJECT
 
 Open The Terminal ---
