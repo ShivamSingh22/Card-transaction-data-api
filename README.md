@@ -2,9 +2,7 @@
 
 API Fetches data from a dataset of card transaction details in format CSV.
 
-# The solution of each test case can be found in the postman_screenshots folder
-
-There are .png images showing the URL endpoints, params and the body of the request.
+There are .png images showing some sample usecases including the URL endpoints, params and the body of the request in the folder postman_screenshots.
 
 # The APIs of 4 types can be found
 
