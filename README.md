@@ -1,4 +1,5 @@
 # Card-transaction-data-api
+A NodeJS scripted API fetching data from CSV files.
 
 API Fetches data from a dataset of card transaction details in format CSV.
 
